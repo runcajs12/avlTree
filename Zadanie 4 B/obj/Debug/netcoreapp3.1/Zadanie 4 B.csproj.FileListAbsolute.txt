@@ -1,0 +1,14 @@
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\bin\Debug\netcoreapp3.1\Zadanie 4 B.exe
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\bin\Debug\netcoreapp3.1\Zadanie 4 B.deps.json
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\bin\Debug\netcoreapp3.1\Zadanie 4 B.runtimeconfig.json
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\bin\Debug\netcoreapp3.1\Zadanie 4 B.runtimeconfig.dev.json
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\bin\Debug\netcoreapp3.1\Zadanie 4 B.dll
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\bin\Debug\netcoreapp3.1\Zadanie 4 B.pdb
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\obj\Debug\netcoreapp3.1\Zadanie 4 B.csproj.AssemblyReference.cache
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\obj\Debug\netcoreapp3.1\Zadanie 4 B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\obj\Debug\netcoreapp3.1\Zadanie 4 B.AssemblyInfoInputs.cache
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\obj\Debug\netcoreapp3.1\Zadanie 4 B.AssemblyInfo.cs
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\obj\Debug\netcoreapp3.1\Zadanie 4 B.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\obj\Debug\netcoreapp3.1\Zadanie 4 B.dll
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\obj\Debug\netcoreapp3.1\Zadanie 4 B.pdb
+C:\Users\Kuba\source\repos\Zadanie 4 B\Zadanie 4 B\obj\Debug\netcoreapp3.1\Zadanie 4 B.genruntimeconfig.cache
