@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "GJDbor+/8nj+dkP6D3XnwziQ1vDLvysLPruTkBynnY3EoGZk3EDQKFduFUtBurglavhXCa1FMDWsxW8LsDvaIg==",
+  "dgSpecHash": "nrh08RipJK1Dor9UnhrAKXDzMwBupFMOz4S0b8bkyC7GH4vb1TJ7AQKsDzlYNs2aeykiHyVIeR5RbjoqSTCWvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kuba\\source\\repos\\Zadanie 4 B\\Zadanie 4 B\\Zadanie 4 B.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\GIT\\pierwszyprojekt\\Zadanie 4 B\\Zadanie 4 B.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kubaz\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512",
+    "C:\\Users\\kubaz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\kubaz\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\kubaz\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
